@@ -1,0 +1,45 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone",
+        "price": 1576,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone18",
+        "price": 1154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 204,
+        "company": "apple"
+    },
+    {
+        "name": "watch10",
+        "price": 384,
+        "company": "apple"
+    },
+    {
+        "name": "s28",
+        "price": 484,
+        "company": "samsung"
+    },
+    {
+        "name": "dell gaming",
+        "price": 501,
+        "company": "dell"
+    },
+    {
+        "name": "m120",
+        "price": 701,
+        "company": "mi"
+    } 
+]
